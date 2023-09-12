@@ -9,7 +9,7 @@
 /*
  * main - entry point
  *
- * return- 0 success
+ * return: 0 success
  */
 
 char(str);
@@ -17,7 +17,7 @@ char(str);
 int main(void)
 
 {
-	char str[] = "Programming is like building a multilingual puzzle\n";
+	char str[] = "\"Programming is like building a multilingual puzzle\n";
 
 	puts(str);
 
