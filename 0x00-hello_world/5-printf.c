@@ -5,7 +5,9 @@
  */
 
 /*
- * main - Entry pointfor the program
+ * main - Entry pointfor the program.
+ *
+ * Description: Prints output to terminal.
  *
  * Return: 0 success
  */

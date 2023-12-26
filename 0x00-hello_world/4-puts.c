@@ -7,7 +7,7 @@
 #include <stdio.h>
 
 /*
- * main - entry point
+ * main - prints string output to terminal using function puts.
  *
  * return: 0 success
  */
