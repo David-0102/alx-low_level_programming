@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S -masm=intel "$CFILE" -o "${CFILE%.c}.s" && echo "Assembly code generated and saved to ${CFILE%.c}
+gcc -S -masm=intel $CFILE
