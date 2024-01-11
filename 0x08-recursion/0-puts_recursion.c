@@ -1,17 +1,18 @@
+#include "main.h"
 /*
  * recursion program that prints a string followed by a new line
- *@s: printed string
+ *@s: input string
  * Author: Mumo Ndunda
  */
 
 /*
  * main - entry point for the program
- *
- * return: 0
+ * _puts_recursion - Prints a string followed by a newline using recursive algo
+ * return: 1 On success
+ * On error, return -1 and set errno appropriately
  */
 
 void _puts_recursion(char *s)
-int _putchar(char c);	
 {
 	if (*s == '\0')
 	{
